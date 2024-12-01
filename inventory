@@ -1,1 +1,1 @@
-plugin: community.general.nmap
+plugin community.general.nmap
