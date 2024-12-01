@@ -1,3 +1,1 @@
 plugin: community.general.nmap
-strict: false
-address: 192.168.100.0/24
